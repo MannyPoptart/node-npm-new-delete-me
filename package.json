@@ -1,0 +1,21 @@
+{
+  "name": "npm-new-delete-me",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "Manny Aguilera"
+  },
+  "author": "Manny Aguilera",
+  "license": "ISC",
+  "keywords": [
+    "fun",
+    "node",
+    "npm"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0"
+  },
+  "type": "module"
+}
